@@ -10,4 +10,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 7. Contact Us
 8. Footer
 
-![](Components.png)
+![](Components.svg)
